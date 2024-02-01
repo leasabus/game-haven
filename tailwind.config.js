@@ -8,7 +8,7 @@ export default {
     colors : {
       primary : '#23232f',
       gray : '#72748e',
-      white : '#fffff',
+      white : '#ffffff',
       details : '#676eff',
       
     }
